@@ -1,0 +1,24 @@
+baseURL: 'https://mantha.dev/'
+languageCode: 'en-us'
+title: 'Alexy Mantha'
+theme: 'papermod'
+
+params:
+  hideFooter: true
+  profileMode:
+    enabled: true
+    subtitle: "DevOps Developper"
+    #imageUrl: "<image link>" # optional
+    #imageTitle: "<title of image as alt>" # optional
+    #imageWidth: 120 # custom size
+    #imageHeight: 120 # custom size
+  socialIcons:
+  - name: GitHub
+    url: "https://github.com/alexymantha"
+  - name: "LinkedIn"
+    url: "https://www.linkedin.com/in/alexy-mantha-1a5629b1/"
+
+#  - name: Archive
+#  url: "/archive"
+      
+
